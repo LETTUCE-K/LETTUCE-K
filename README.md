@@ -1,5 +1,6 @@
 
- <p align="center">
-  <img width="300" height="300" alt="IMG_5413-removebg-preview" src="https://github.com/user-attachments/assets/b28c1bc1-bb97-4511-912f-e5bb73e46e73" />
- <p align="center">
+</p>   
+<p align="center">
+  <img width="400" height="400" alt=<img width="530" height="471" alt="IMG_5765-removebg-preview (1)" src="https://github.com/user-attachments/assets/68846f75-ad3a-4377-bc50-947c88e9d006" />
+<p align="center">
  ${\textsf{\color{#f9fde4} w2i always ! i luv my gf}}$
